@@ -1,0 +1,5 @@
+# Ignore all .pyc files
+help/*
+bin/*
+include/*
+*.pyc
