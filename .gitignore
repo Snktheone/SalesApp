@@ -1,7 +1,7 @@
 # Ignore all .pyc files
-/help/*
-/bin/*
-/include/*
+help/*
+bin/*
+include/*
 *.Python
 *.pytest*
 *.python_cache
